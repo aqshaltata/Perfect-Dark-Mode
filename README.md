@@ -2,14 +2,15 @@
 Script Javscript terbaik untuk mengimplementasikan 'mode malam' pada sebuah website/blog. <br/>
 
 # Fitur
-<ul>
+- Pure Javascript.
 - Memberi atribut <code>data-theme</code> pada element <code>html</code>.
 - Menyimpan atribut <code>data-theme</code> pada data storage agar dark mode tidak menghilang ketika halaman berpindah / ketika pengunjung datang kembali ke website / blog anda.
 - Mengubah website / blog ke 'Mode Malam' secara otomatis ketika jam di perangkat pengunjung menunjukkan jam 6 sore - 6 pagi.
 
 # Cara Pasang
-- Copy script yang ada di repo ini.
+- Copy script Javascript yang ada di repo ini.
 - Pasang seperti bagaimana anda biasanya memasang script javascript di website / blog anda.
+- Copy juga script CSS di repo ini. Pasang di dalam elemen <code>style</code>.
 - SAVE.
 
 # Penggunaan
