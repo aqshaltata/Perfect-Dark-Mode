@@ -1,0 +1,9 @@
+/* Dark Mode */
+.theme-switch{display:block;margin-top:15px;font-size:.9em;color:var(--footer-text);text-transform:capitalize;margin-left:-1px;cursor:pointer;}
+.theme-switch input#checkbox{opacity:0;width:0;height:0;overflow:hidden;margin:0;padding:0;}
+.theme-switch:hover{color:var(--primary-text);}
+.theme-switch span span{background:var(--primary-color);color:#fff;padding:.1rem .5rem 0;margin:auto 5px;border-radius:3px;font-size:80%;font-weight:400;line-height:1;}
+.theme-switch span.on{display:none}
+.theme-switch span.off{display:inline}
+.theme-switch input:checked~span.on{display:inline}
+.theme-switch input:checked~span.off{display:none}
