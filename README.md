@@ -13,6 +13,6 @@ Script Javscript terbaik untuk mengimplementasikan 'mode malam' pada sebuah webs
 - Copy juga script CSS di repo ini. Pasang di dalam elemen <code>style</code>.
 - SAVE.
 
-# Penggunaan
+# Cara Pakai
 - Kode HTML (Taruh dimana aja sesuai keinginan) :
 - <pre>&lt;label class=&#39;theme-switch&#39; for=&#39;checkbox&#39;&gt;&lt;input id=&#39;checkbox&#39; type=&#39;checkbox&#39;/&gt;&lt;span class=&#39;on&#39;&gt;Dark Mode &lt;span&gt;ON&lt;/span&gt;&lt;/span&gt;&lt;span class=&#39;off&#39;&gt;Dark Mode &lt;span&gt;OFF&lt;/span&gt;&lt;/span&gt;&lt;/label&gt;</pre>
